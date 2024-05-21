@@ -1,4 +1,4 @@
-# Group 11
+# Group 11 - On-site
 
 Solucion for [Activity1](https://github.com/Polkadot-Blockchain-Academy/pba-content/blob/main/syllabus/1-Cryptography/materials/many-time-pad.md)
 
